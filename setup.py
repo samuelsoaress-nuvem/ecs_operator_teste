@@ -32,10 +32,6 @@ setup(
     url='https://github.com/samuelsoaress-nuvem/ecs_operator_teste',
     author='Samuel Soares',
     author_email='samuel.soares@nuvem.net',
-    install_requires=[
-        'apache-airflow',
-        'boto3'
-    ],
 
     py_modules=['ecs_operator']
 )
